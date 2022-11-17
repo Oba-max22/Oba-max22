@@ -11,7 +11,7 @@
   </a>
 </div>
 
-## 🚀 &nbsp;Some Tools I Have Used and Learned
+## 🚀 &nbsp; Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
