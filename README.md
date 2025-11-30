@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Emmanuel Macaulay
+### Hi there 👋, I'm Emmanuel Obajimi Macaulay
 
 <img src="https://github.com/Oba-max22/Oba-max22/blob/master/banner_gif.gif" width="700">
 
